@@ -41,12 +41,12 @@ background-size: 100% !important;
 /* subheader background for specify page */
 #subheader{background:url(../images/background/bg-subheader.jpg)top fixed;}
 .page-services #subheader{background-image:url(../images/background/subheader-1.jpg);}
-.page-about #subheader{background-image:url(../images/background/subheader-2.jpg);}
+.page-about #subheader{background-image:url(../images/gallery/massg.jpeg);}
 .page-blog #subheader{background-image:url(../images/background/subheader-7.jpg);}
-.page-shop #subheader{background-image:url(../images/background/subheader-4.jpg);}
-.page-contact #subheader{background-image:url(../images/background/subheader-5.jpg);}
+.page-shop #subheader{background-image:url(../images/gallery/massg.jpeg);}
+.page-contact #subheader{background-image:url(../images/gallery/massg.jpeg);}
 .page-service-details #subheader{background-image:url(../images/background/subheader-6.jpg);}
-.page-booking #subheader{background-image:url(../images/background/subheader-3.jpg);}
+.page-booking #subheader{background-image:url(../images/gallery/massg.jpeg);}
 
 
 /* subheader side background for services details page */
