@@ -25,8 +25,8 @@ background-size: 100% !important;
 
 /* section with side background image */
 #explore-1,#explore-2,#explore-4{background:#eee;}
-#explore-1.side-bg .background-image {background:url(../images/background/bg-side-2.jpg) top;}
-#explore-2.side-bg .background-image {background:url(../images/background/bg-side-1.jpg) top;}
+#explore-1.side-bg .background-image {background:url(../images/about-1.jpeg) top;}
+#explore-2.side-bg .background-image {background:url(../images/about.jpeg) top;}
 #explore-3.side-bg .background-image {background:url(../images/background/bg-side-1.jpg) top;}
 #explore-4.side-bg .background-image {background:url(../images/background/bg-side-4.jpg) top;}
 #explore-5{background:#50094d;}
