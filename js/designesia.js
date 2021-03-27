@@ -209,7 +209,7 @@ function h_center_logo(){
 	var i = 0;
 	jQuery('.header_center ul#mainmenu > li').each(function() {
 		if(i == Math.floor(position/2)-1) {
-			jQuery(this).after('<li class="logo_pos"><img class="c_logo_light" height= 100 src="'+logo_dir_1+'"/><img class="c_logo_dark " height=50 src="'+logo_dir_2+'"/></li>');
+			jQuery(this).after('<li class="logo_pos"><a href="index.html" class="logo"><img class="c_logo_light" height= 100 src="'+logo_dir_1+'"/></a><a href="index.html" class="logo"><img class="c_logo_dark "  height=50 src="'+logo_dir_2+'"/></a></li>');
 	}
 	i++;
 	});

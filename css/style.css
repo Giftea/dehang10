@@ -303,6 +303,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
 	header.smaller.header_light .c_logo_dark{
 	display:block;
 	}
+	.logo{
+		padding: 0 !important;
+	}
 	
 	
 	/* subheader */
