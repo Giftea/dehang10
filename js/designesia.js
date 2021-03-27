@@ -327,7 +327,7 @@ function onScrollActive(){
 		jQuery('.picframe').each(function(){	
 		
 		 jQuery(this).find("img").css("width","100%");
-		 jQuery(this).find("img").css("height","400");
+		 jQuery(this).find("img").css("height","350");
 		 
 		 jQuery(this).find("img").on('load', function() {
 				var w = jQuery(this).css("width");
