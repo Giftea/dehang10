@@ -2866,6 +2866,16 @@ border:none;
 	.team-list .info{
 	padding-left:170px;
 	}
+
+	.image-height{
+		height: 270px;
+	}
+
+	@media screen and (max-width:768px){
+		.image-height{
+			height: 150px;
+		}	
+	}
 	
 	.de-team-list{
 		overflow:hidden;
