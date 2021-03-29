@@ -5,8 +5,8 @@ jQuery(document).ready(function() {
 	
 	// editable value
 	var logo_pos				= 1; // logo position; 1 - center, 2 - left
-	var logo_dir_1				= 'images/com-logo (copy).png'; // change with your logo path
-	var logo_dir_2				= 'images/com-logo (copy).png'; // change with your logo path (for light background)
+	var logo_dir_1				= 'images/logo.png'; // change with your logo path
+	var logo_dir_2				= 'images/logo.png'; // change with your logo path (for light background)
 	var logo_center_top_margin	= '-15px'; // define margin top for 'center' logo image
 	var logo_left_top_margin	= '30px'; // define margin top for 'left' logo image
 	var header_sticky			= 1; // 0 - default, 1 - sticky
